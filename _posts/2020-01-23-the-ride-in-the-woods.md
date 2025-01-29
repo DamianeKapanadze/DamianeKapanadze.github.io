@@ -15,7 +15,7 @@ These are the things I use on a daily basis. They live in my bag, pocket, or des
 6. **Laptop bag** - Borrowed from the library.  
 7. **2020, 13-inch, M1 MacBook Pro** - Borrowed from the library.  
 8. **Unused paper for notes.**  
-9. **HGL Calipers** - Owned by EDS.  
+9. **HGL Calipers** - Owned by EDS, ±0.02mm.
 10. **AirPods Pro (2nd Gen, Type-C).**  
 11. **Wallet** - Holds my cards, Emirates ID, Driving License, and Identity Card.  
 12. **Tabocine** - Malaria pill that I have to take every day for 30 days because I had J-Term in Uganda.  
