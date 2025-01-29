@@ -30,5 +30,5 @@ These are the things I use on a daily basis. They live in my bag, pocket, or des
 21. **NYU ID and room key.**  
 22. **Koss headphones.**  
 23. **Samsung A55.**  
-24. **Omani hat** - Happened to be in EDS, and I like to wear it.  
+24. **Kuma (Omani hat)** - Happened to be in EDS, and I like to wear it.  
 25. **My button-down shirt** - Because it is cold in EDS.  
