@@ -32,4 +32,3 @@ These are the stuff that I use on a daily basis. They live in my bag, pocket, or
 23. Samsung A55 
 24. Omani Hat that happened top be in EDS and I like to wear.
 25. My Button down shirt - becasue it is cold in EDS.
-2. a
