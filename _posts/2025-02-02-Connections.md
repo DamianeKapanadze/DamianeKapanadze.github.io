@@ -68,72 +68,142 @@ tags: [Connections, Questioning Life, Technology, History]
     </div>
     <div class="carousel-item">
       <a href="https://en.wikipedia.org/wiki/Plastic" target="_blank">
-        <img src="/images/posts/Blog2/plastic.jpg" alt="Connection 3">
+        <img src="/images/posts/Blog2/lastic.jpg" alt="Connection 3">
         <h3>Plastic</h3>
       </a>
     </div>
   </div>
-  <button class="prev" onclick="moveToPreviousSlide()">❮</button>
-  <button class="next" onclick="moveToNextSlide()">❯</button>
+  <button class="prev" onclick="moveToPreviousSlide()"> ❮ </button>
+  <button class="next" onclick="moveToNextSlide()"> ❯ </button>
 </div>
 
 <style>
+/* Improved Carousel Styling */
 .carousel {
-  display: flex;
-  align-items: center; /* Vertically centers the items */
   position: relative;
   width: 100%;
+  max-width: 1200px;
+  margin: 2rem auto;
   overflow: hidden;
 }
 
 .carousel-items {
   display: flex;
   transition: transform 0.5s ease;
+  min-height: 400px; /* Set minimum height for consistency */
 }
 
 .carousel-item {
   min-width: 100%;
-  box-sizing: border-box;
   display: flex;
-  justify-content: center; /* Horizontally centers the content */
-  align-items: center; /* Vertically centers the content */
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.carousel-item a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+  color: #333;
+  height: 100%;
+  width: 100%;
 }
 
 .carousel img {
-  width: 75%;
+  max-width: 100%;
+  max-height: 70vh; /* Limits image height while maintaining aspect ratio */
+  width: auto;
   height: auto;
-  object-fit: contain; /* Ensures the entire image is visible */
+  object-fit: contain;
+  margin: 0 auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 
+.carousel h3 {
+  margin: 15px 0 0 0;
+  font-size: 1.2rem;
+  text-align: center;
+  padding: 0 20px;
+  color: #2c3e50;
+}
+
+/* Updated Navigation Buttons with Black Background */
 .prev, .next {
   position: absolute;
   top: 50%;
-  padding: 16px;
-  font-size: 18px;
-  color: white;
-  background-color: rgba(0, 0, 0, 0.5);
-  border: none;
-  cursor: pointer;
-  border-radius: 3px;
   transform: translateY(-50%);
+  background: rgba(0,0,0,0.7); /* Black with 70% opacity */
+  border: none;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+  transition: all 0.3s ease;
+  align-items: center;
+  justify-content: center;
 }
 
-.prev {
-  left: 0;
-}
-
-.next {
-  right: 0;
-}
 
 .prev:hover, .next:hover {
-  background-color: rgba(0, 0, 0, 0.8);
+  background: rgba(0,0,0,0.9); /* Darker on hover */
+  transform: translateY(-50%) scale(1.1);
 }
 
+.prev::after, .next::after {
+  content: '';
+  width: 12px;
+  height: 12px;
+  border-top: 2px solid white; /* White arrows */
+  border-right: 2px solid white; /* White arrows */
+}
 
+/* Keep the rest of your existing styles */
+
+.prev::after {
+  transform: rotate(-135deg);
+  margin-left: 4px;
+}
+
+.next::after {
+  transform: rotate(45deg);
+  margin-right: 4px;
+}
+
+.prev { left: 20px; }
+.next { right: 20px; }
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .carousel-items {
+    min-height: 300px;
+  }
+  
+  .carousel img {
+    max-height: 50vh;
+  }
+  
+  .prev, .next {
+    width: 32px;
+    height: 32px;
+  }
+  
+  .carousel h3 {
+    font-size: 1rem;
+  }
+}
 </style>
 
 <script>
+  window.addEventListener('resize', () => {
+  document.querySelector('.carousel-items').style.transform = 
+    `translateX(-${currentIndex * 100}%)`;
+});
   let currentIndex = 0;
   const items = document.querySelectorAll('.carousel-item');
   const totalItems = items.length;
