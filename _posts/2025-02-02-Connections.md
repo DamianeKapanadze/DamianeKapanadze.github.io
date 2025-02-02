@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Connections: The Long Chain"
-date:   2025-02-02
-featured_image: 
+title: "Connections: The Long Chain"
+date: 2025-02-02
+featured_image:
 tags: [Connections, Questioning Life, Technology, History]
 ---
 
-<a href="https://en.wikipedia.org/wiki/Connections_(British_TV_series)" target="_blank">
+<a href="https://archive.org/details/bbc-connections-1978/Connections/S01/S01E07+-+The+Long+Chain.mkv" target="_blank">
   <img src="/images/posts/Blog2/Connections.jpg" alt="Connections: The Long Chain">
 </a>
 
@@ -47,40 +47,64 @@ tags: [Connections, Questioning Life, Technology, History]
         <img src="/images/posts/Blog2/Mauv2.jpg" alt="Connection 3">
         <h3>Mauveine</h3>
       </a>
-    </div>>
+    </div>
+    <div class="carousel-item">
+      <a href="https://en.wikipedia.org/wiki/Fertilizer" target="_blank">
+        <img src="/images/posts/Blog2/Fertilizer.jpg" alt="Connection 3">
+        <h3>Fertilizer</h3>
+      </a>
+    </div>
+    <div class="carousel-item">
+      <a href="https://en.wikipedia.org/wiki/TNT" target="_blank">
+        <img src="/images/posts/Blog2/TNT.jpg" alt="Connection 3">
+        <h3>Explosives</h3>
+      </a>
+    </div>
+    <div class="carousel-item">
+      <a href="https://en.wikipedia.org/wiki/World_War_I" target="_blank">
+        <img src="/images/posts/Blog2/World_War_I.jpg" alt="Connection 3">
+        <h3>World War I</h3>
+      </a>
+    </div>
+    <div class="carousel-item">
+      <a href="https://en.wikipedia.org/wiki/Plastic" target="_blank">
+        <img src="/images/posts/Blog2/plastic.jpg" alt="Connection 3">
+        <h3>Plastic</h3>
+      </a>
+    </div>
   </div>
   <button class="prev" onclick="moveToPreviousSlide()">❮</button>
   <button class="next" onclick="moveToNextSlide()">❯</button>
 </div>
+
 <style>
- .carousel {
+.carousel {
   display: flex;
-  align-items: center;
+  align-items: center; /* Vertically centers the items */
   position: relative;
   width: 100%;
   overflow: hidden;
 }
+
 .carousel-items {
   display: flex;
   transition: transform 0.5s ease;
 }
+
 .carousel-item {
   min-width: 100%;
   box-sizing: border-box;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: center; /* Horizontally centers the content */
+  align-items: center; /* Vertically centers the content */
 }
-.image-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-}
+
 .carousel img {
-  max-width: 100%;
+  width: 75%;
   height: auto;
+  object-fit: contain; /* Ensures the entire image is visible */
 }
+
 .prev, .next {
   position: absolute;
   top: 50%;
@@ -93,15 +117,20 @@ tags: [Connections, Questioning Life, Technology, History]
   border-radius: 3px;
   transform: translateY(-50%);
 }
+
 .prev {
   left: 0;
 }
+
 .next {
   right: 0;
 }
+
 .prev:hover, .next:hover {
   background-color: rgba(0, 0, 0, 0.8);
 }
+
+
 </style>
 
 <script>
