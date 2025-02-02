@@ -11,7 +11,6 @@ tags: [Connections, Questioning Life, Technology, History]
 </a>
 
 <div class="carousel">
-  <button class="prev" onclick="moveToPreviousSlide()">❮</button>
   <div class="carousel-items">
     <div class="carousel-item">
       <a href="https://en.wikipedia.org/wiki/Fluyt" target="_blank">
@@ -37,9 +36,20 @@ tags: [Connections, Questioning Life, Technology, History]
         <h3>Gas Lighting</h3>
       </a>
     </div>
-
-
+    <div class="carousel-item">
+      <a href="https://en.wikipedia.org/wiki/Mackintosh" target="_blank">
+        <img src="/images/posts/Blog2/Mackintosh.jpg" alt="Connection 3">
+        <h3>Mackintosh</h3>
+      </a>
+    </div>
+    <div class="carousel-item">
+      <a href="https://en.wikipedia.org/wiki/Mauveine" target="_blank">
+        <img src="/images/posts/Blog2/Mauv2.jpg" alt="Connection 3">
+        <h3>Mauveine</h3>
+      </a>
+    </div>>
   </div>
+  <button class="prev" onclick="moveToPreviousSlide()">❮</button>
   <button class="next" onclick="moveToNextSlide()">❯</button>
 </div>
 <style>
@@ -50,12 +60,10 @@ tags: [Connections, Questioning Life, Technology, History]
   width: 100%;
   overflow: hidden;
 }
-
 .carousel-items {
   display: flex;
   transition: transform 0.5s ease;
 }
-
 .carousel-item {
   min-width: 100%;
   box-sizing: border-box;
@@ -63,19 +71,16 @@ tags: [Connections, Questioning Life, Technology, History]
   justify-content: center;
   align-items: center;
 }
-
 .image-container {
   display: flex;
   justify-content: center;
   align-items: center;
   width: 100%;
 }
-
 .carousel img {
   max-width: 100%;
   height: auto;
 }
-
 .prev, .next {
   position: absolute;
   top: 50%;
@@ -88,19 +93,15 @@ tags: [Connections, Questioning Life, Technology, History]
   border-radius: 3px;
   transform: translateY(-50%);
 }
-
 .prev {
   left: 0;
 }
-
 .next {
   right: 0;
 }
-
 .prev:hover, .next:hover {
   background-color: rgba(0, 0, 0, 0.8);
 }
-
 </style>
 
 <script>
