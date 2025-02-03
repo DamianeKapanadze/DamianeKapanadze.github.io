@@ -68,7 +68,7 @@ tags: [Connections, Questioning Life, Technology, History]
     </div>
     <div class="carousel-item">
       <a href="https://en.wikipedia.org/wiki/Plastic" target="_blank">
-        <img src="/images/posts/Blog2/lastic.jpg" alt="Connection 3">
+        <img src="/images/posts/Blog2/plastic.jpeg" alt="Connection 3">
         <h3>Plastic</h3>
       </a>
     </div>
