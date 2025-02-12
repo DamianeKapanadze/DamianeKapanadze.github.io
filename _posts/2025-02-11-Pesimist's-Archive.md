@@ -149,9 +149,9 @@ tags: [Pessimist's Archive, Questioning Life, Technology, Cars, Shift]
   </a>
 </div>
 <ul style="text-align: Left; list-style-type: disc; margin-top: 50px;">
-  <li><strong>Cars become affordable. Affordability and accaptablity are proportinal.</strong></li>
-  <li><strong>But cars were cheaoer than horses long before. It was all about timing. in 1902 they ran campaings of making cars more approachable - cars for families, women drivers, they made it feel like a horse. Car had to become a horse. </strong></li>
-  <li><strong>People hate unfamilary rahter than new technology, but if one builds a bridge that's comfortable engough, people will eventually cross it.</strong></li>
+  <li><strong>Cars became affordable. Affordability and acceptability were proportional.</strong></li>
+  <li><strong>BHowever, cars had been cheaper than horses long before. It was all about timing. In 1902, campaigns focused on making cars more approachable—targeting families, women drivers, and making cars feel like a horse. The car had to become a horse. </strong></li>
+  <li><strong>People don’t hate new technology; they dislike unfamiliarity. But if a bridge is built that feels comfortable enough, people will eventually cross it.</strong></li>
 </ul>
 <!-- Get a Horse -->
 <h2 style="text-align: center; margin-top: 200px;"> 1974 Ford - Get a Horse! </h2>
