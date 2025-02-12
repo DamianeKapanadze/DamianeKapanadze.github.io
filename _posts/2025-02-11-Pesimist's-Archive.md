@@ -25,7 +25,7 @@ tags: [Pessimist's Archive, Questioning Life, Technology, Cars, Shift]
   </a>
 </div>
 <ul style="text-align: Left; list-style-type: disc; margin-top: 50px;">
-  <li><strong>500 tons of horse manure produced daily in London.</strong></li>
+  <li><strong>500 tons of horse manure produced daily in New York.</strong></li>
   <li><strong>62,000 horses in 1,300 stables contributing to the manure problem.</strong></li>
 </ul>
 
@@ -150,7 +150,7 @@ tags: [Pessimist's Archive, Questioning Life, Technology, Cars, Shift]
 </div>
 <ul style="text-align: Left; list-style-type: disc; margin-top: 50px;">
   <li><strong>Cars became affordable. Affordability and acceptability were proportional.</strong></li>
-  <li><strong>BHowever, cars had been cheaper than horses long before. It was all about timing. In 1902, campaigns focused on making cars more approachable—targeting families, women drivers, and making cars feel like a horse. The car had to become a horse. </strong></li>
+  <li><strong>However, cars had been cheaper than horses long before. It was all about timing. In 1902, campaigns focused on making cars more approachable—targeting families, women drivers, and making cars feel like a horse. The car had to become a horse. </strong></li>
   <li><strong>People don’t hate new technology; they dislike unfamiliarity. But if a bridge is built that feels comfortable enough, people will eventually cross it.</strong></li>
 </ul>
 <!-- Get a Horse -->
