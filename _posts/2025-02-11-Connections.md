@@ -21,7 +21,7 @@ tags: [Pessimist's Archive, Questioning Life, Technology, Cars, Shift]
 
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://danszczesny.substack.com/p/the-great-horse-manure-crisis-of" target="_blank">
-    <img src="/images/posts/Blog3/HorseShit.jpg" alt="Great Horse Manure Crisis of 1894" style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;">
+    <img src="/images/posts/Blog3/HorseShit.jpg" alt="Great Horse Manure Crisis of 1894" style="width: 100%; max-width: 1000px; height: auto; border-radius: 8px;">
   </a>
 </div>
 <ul style="text-align: Left; list-style-type: disc; margin-top: 50px;">
@@ -36,21 +36,21 @@ tags: [Pessimist's Archive, Questioning Life, Technology, Cars, Shift]
   </a>
 </h2>
 
-<div style="text-align: center; margin-top: 20px;">
+<div style="text-align: center; margin-top: 50px;">
   <a href="https://www.britannica.com/biography/Nicolas-Joseph-Cugnot#/media/1/145966/92625" target="_blank">
-    <img src="/images/posts/Blog3/1stCar.webp" alt="1769 Car" style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;">
+    <img src="/images/posts/Blog3/1stCar.webp" alt="1769 Car" style="width: 100%; max-width: 1000px; height: auto; border-radius: 8px;">
   </a>
 </div>
 <ul style="text-align: Left; list-style-type: disc; margin-top: 50px;">
   <li><strong>Get a Horse!</strong></li>
   <li><strong>Horseless Carriage.</strong></li>
-  <li><strong>Devil Wagon.</strong></li>
+  <li><strong>Devilish DevilWagon.</strong></li>
 </ul>
 
 <!-- Red flag traffic laws -->
 <h2 style="text-align: center; margin-top: 200px;">
   <a href="https://en.wikipedia.org/wiki/Red_flag_traffic_laws" target="_blank" style="text-decoration: none; color: inherit;">
-    Red flag traffic laws 
+    Red flag traffic laws
   </a>
 </h2>
 <ul style="text-align: left; list-style-type: disc; margin-top: 50px;">
@@ -76,25 +76,36 @@ tags: [Pessimist's Archive, Questioning Life, Technology, Cars, Shift]
   </li>
   <li>
     <a href="https://en.wikipedia.org/wiki/John_Henry_Knight_(inventor)" target="_blank">
-      <strong>1895 - John Henry Knight - first petroleum powered carriage to be built in England</strong>
+      <strong>1895 - John Henry Knight - first petroleum-powered carriage to be built in England</strong>
     </a>
-    <div style="text-align: center; margin-top: 20px;">
+    <div style="text-align: center; margin-top: 50px;">
       <a href="https://en.wikipedia.org/wiki/File:SpeedyKnight.jpg" target="_blank">
-        <img src="/images/posts/Blog3/SpeedyKnight.jpg" alt="John Henry Knight's First Petroleum Powered Carriage" style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;">
+        <img src="/images/posts/Blog3/SpeedyKnight.jpg" alt="John Henry Knight's First Petroleum Powered Carriage" style="width: 100%; max-width: 1000px; height: auto; border-radius: 8px;">
       </a>
     </div>
-        <ul>
-          <li>He got ticket for breaking the laws of Locomotives Act 1865</li>
-          <li>The press jumped on this silly and outdated laws</li>
-          <li>Even New York Times wrote: "It is very curious that towards the introductuon of the horseless cariiges in England should have to be the begining of the agetation of  the existing law" </li>
-        </ul>
+    <ul>
+      <li>He received a ticket for breaking the laws of the Locomotives Act 1865.</li>
+      <li>The press criticized these outdated laws.</li>
+      <li>Even The New York Times wrote: "It is very curious that, towards the introduction of the horseless carriages in England, there should have to be the beginning of the agitation of the existing law."</li>
+    </ul>
   </li>
   <li>
-    <a href="https://en.wikipedia.org/wiki/Devil_wagon" target="_blank">
-      <strong>Devil Wagon</strong>
+    <a href="https://en.wikipedia.org/wiki/Locomotives_on_Highways_Act_1896" target="_blank">
+      <strong>Locomotives on Highways Act 1896</strong>
     </a>
+    <ul style="list-style-type: circle; margin-top: 10px;">
+      <li>Increased the speed limit for light locomotives from 4 mph to 14 mph.</li>
+      <li>Abolished the requirement for a person to walk ahead carrying a red flag.</li>
+    </ul>
+    <p>To celebrate this change, car enthusiasts organized a drive from London to Brighton, marking the beginning of the annual <a href="https://www.veterancarrun.com/" target="_blank">London to Brighton Veteran Car Run</a>, where only cars built before 1905 can participate.</p>
   </li>
+  <div style="text-align: center; margin-top: 50px;">
+      <a href="https://www.veterancarrun.com/2024-through-villages/c4674017-vcr-2024-267lrjpg" target="_blank">
+        <img src="/images/posts/Blog3/LondonToBr.webp" alt="John Henry Knight's First Petroleum Powered Carriage" style="width: 100%; max-width: 1000px; height: auto; border-radius: 8px;">
+      </a>
+    </div>
 </ul>
+
 
 
 
@@ -125,6 +136,27 @@ tags: [Pessimist's Archive, Questioning Life, Technology, Cars, Shift]
 <h2 style="text-align: center; margin-top: 200px;"> Goofy: Motor Mania </h2>
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/mwPSIb3kt_4?start=40" allowfullscreen></iframe>
+</div>
+
+
+<!-- The turning point -->
+<h2 style="text-align: center; margin-top: 200px;">The Turning Point</h2>
+
+
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://en.wikipedia.org/wiki/History_of_the_automobile" target="_blank">
+    <img src="/images/posts/Blog3/Model_T.jpg" alt="Great Horse Manure Crisis of 1894" style="width: 100%; max-width: 1000px; height: auto; border-radius: 8px;">
+  </a>
+</div>
+<ul style="text-align: Left; list-style-type: disc; margin-top: 50px;">
+  <li><strong>Cars become affordable. Affordability and accaptablity are proportinal.</strong></li>
+  <li><strong>But cars were cheaoer than horses long before. It was all about timing. in 1902 they ran campaings of making cars more approachable - cars for families, women drivers, they made it feel like a horse. Car had to become a horse. </strong></li>
+  <li><strong>People hate unfamilary rahter than new technology, but if one builds a bridge that's comfortable engough, people will eventually cross it.</strong></li>
+</ul>
+<!-- Get a Horse -->
+<h2 style="text-align: center; margin-top: 200px;"> 1974 Ford - Get a Horse! </h2>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/YQpWjFJmOIM" allowfullscreen></iframe>
 </div>
 
 
