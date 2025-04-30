@@ -93,7 +93,7 @@ tags: [Designers]
 <section style="margin-top: 40px;">
   <h2>Design Phylospohy</h2>
   <ul>
-    <li>Less detail means more universal</li>
+    <li>Simplicity. Less detail means more universal</li>
   </ul>
 </section>
 
@@ -107,5 +107,5 @@ tags: [Designers]
 </div>
 
 <div style="text-align: center; margin-top: 50px;">
-  <img src="/images/posts/Blog5/Scott1.webp" alt="scott mccloud universlity comics" style="width: 100%; max-width: 900px; height: auto; border-radius: 8px;">
+  <img src="/images/posts/Blog5/Scott1.jpg" alt="scott mccloud universlity comics" style="width: 100%; max-width: 900px; height: auto; border-radius: 8px;">
 </div>
